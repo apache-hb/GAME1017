@@ -1,0 +1,9 @@
+
+*.db-shm
+*.db
+*.vsidx
+*.lock
+A1_BrownElliot/.vs/GAME1007_W05_Framework/v17/.suo
+*.db-wal
+*.opendb
+*.ipch

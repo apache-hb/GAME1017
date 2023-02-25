@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\game1007\\a1_brownelliot\\game1007_w05_framework\\main.ixx",
+        "ProvidedModule": "Main",
+        "Includes": [
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\sdl_main.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\sdl_stdinc.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\sdl_config.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\sdl_platform.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\shared\\winapifamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\shared\\winpackagefamily.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\begin_code.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\close_code.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\um\\winsdkver.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\shared\\sdkddkver.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\stddef.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\vadefs.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.34.31933\\include\\stdarg.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\begin_code.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\close_code.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\begin_code.h",
+            "d:\\github\\game1007\\a1_brownelliot\\sdl\\sdl2\\include\\close_code.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
